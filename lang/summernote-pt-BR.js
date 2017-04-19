@@ -8,7 +8,9 @@
         clear: 'Remover estilo da fonte',
         height: 'Altura da linha',
         name: 'Fonte',
-        strikethrough: 'Riscado',
+        strikethrough: 'Tachado',
+        subscript: 'Subscrito',
+        superscript: 'Sobrescrito',
         size: 'Tamanho da fonte'
       },
       image: {
@@ -20,9 +22,17 @@
         floatLeft: 'Flutuar para Esquerda',
         floatRight: 'Flutuar para Direira',
         floatNone: 'Não Flutuar',
+        shapeRounded: 'Forma: Arredondada',
+        shapeCircle: 'Forma: Círculo',
+        shapeThumbnail: 'Forma: Miniatura',
+        shapeNone: 'Forma: Nenhuma',
         dragImageHere: 'Arraste uma imagem para cá',
+        dropImage: 'Soltar imagem ou texto',
         selectFromFiles: 'Selecione a partir dos arquivos',
-        url: 'URL da imagem'
+        maximumFileSize: 'Tamanho máximo do arquivo',
+        maximumFileSizeError: 'Tamanho máximo do arquivo excedido.',
+        url: 'URL da imagem',
+        remove: 'Remover Imagem'
       },
       video: {
         video: 'Vídeo',
